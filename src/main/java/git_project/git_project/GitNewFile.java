@@ -5,6 +5,9 @@ public class GitNewFile {
 	public static void main(String[] args) {
             
 		   System.out.println("Git File");
+		   
+		   System.out.println("Git File for second commit");
+
 	}
 
 }
